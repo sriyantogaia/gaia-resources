@@ -1,25 +1,33 @@
 
-### Manage Relations
+### G-GATe
 
-Nama | Manage Relations
+Nama | Verbal Reasoning
 :----|:----
-Kode | MNRL
-Alias | Socializing
-Definisi | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kode | VERBR
+Alias | 
+Definisi | Potensi untuk memahami dan menggunakannya dalam pemecahan suatu masalah verbal.
+Deskripsi | Kemampuan nalar dalam menghadapi persoalan-persoalan yang bersifat verbal, kalimat-kalimat, informasi, ide/gagasan. Kemampuan menangkap dan memformulasikannya menjadi suatu hal yang baru.
 
-### Achievement Drive
 
-Nama  | Achievement Drive
+Nama  | Numerical Reasoning
 :-----|:----
-Kode  | ACHD
-Alias | Semangat Tempur
-Definisi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kode  | NUMR
+Alias | 
+Definisi | Potensi untuk memahami dan menggunakannya dalam pemecahan suatu masalah numerikal.
+Deskripsi | Kemampuan nalar dalam menghadapi persoalan-persoalan yang bersifat numerik, angka-angka, tabel dan sejenisnya
 
-### Ascent Drive
 
-Nama  | Ascent Drive
+Nama  | Abstraction
 :-----|:----
-Kode  | ASCD
-Alias | Dorongan Mendaki
-Definisi | Karakter yang menggambarkan semangat tempur, dapat diukur melalui setidaknya dua metode: Gerkhin dan Absol.
-Deskripsi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+Kode  | ABSR
+Alias | 
+Definisi | Potensi untuk memahami dan menggunakannya dalam pemecahan suatu masalah abstraksi.
+Deskripsi | Kemampuan nalar dalam menghadapi persoalan-persoalan yang bersifat abstraksi, ruang bidang, bentuk dan sejenisnya.
+
+
+Nama  | Rerata
+:-----|:----
+Kode  | RERA
+Alias | 
+Definisi | Potensi kognitif
+Deskripsi | Potensi kognitif hasil rerata dari element *verbal reasoning*, *numerical reasoing* dan *abstraction*. 
