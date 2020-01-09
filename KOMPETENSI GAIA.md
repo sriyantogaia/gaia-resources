@@ -1,22 +1,10 @@
-### 14 KOMPETENSI GENERIC GAIA
-
-
-### Manage Reasoning
-
-Nama  | Manage Reasoning
-:-----|:----
-Kode  | MRE
-Alias INA| Mengelola Pemikiran
-Definisi | Kemampuan dalam mengelola kognitif untuk menghadapi prsoalan maupun penugasan.
-Deskripsi |Gabungan dari kompetensi Analytical Thinking, Conceptual Thinking, dan Strategic Thinking.
-
-
 ### Analytical Thinking
 
 Nama  | Analytical Thinking
 :-----|:----
-Kode  | ATH
-Alias INA| Berpikir Analisis
+Kode  | ANAT
+Alias | Berpikir Analisis
+Tipe | Simple
 Definisi | Kemampuan berpikir secara sistematis yang dimulai dari **mengenali**, **memilah** **<u>unsur</u>** pembentuk kondisi dan melihat **keterkaitan** masing-masing unsur pembentuk kondisi tersebut, serta kemampuan melihat **hubungan sebab-akibat** dalam rangka mengenali **unsur utama** pembentuk kondisi.
 Perilaku Kunci | Mengenali <u>unsur-unsur</u> pembentuk <u>kondisi</u>.
 Perilaku Kunci | Menentukan hubungan <u>sebab akibat</u> antar <u>unsur</u>.
@@ -40,8 +28,9 @@ Indikator | Mengidentifikasi beragam hal yang menjadi penyebab munculnya unsur u
 
 Nama  | Conceptual Thinking
 :-----|:----
-Kode  | CTH
-Alias INA| Berpikir Konseptual
+Kode  | CONT
+Alias |
+Tipe | Simple
 Definisi | Kemampuan untuk **mengenali pola hubungan** dari berbagai kondisi dengan cara melihat keterkaitan unsur pembentuk masing-masing kondisi tersebut **menjadi sesuatu pola pandang baru** yang lebih mudah dipahami.
 Perilaku Kunci | Mengenali pola hubungan yang jelas.
 Perilaku Kunci | Mengenali pola hubungan yang ambigu.
@@ -55,7 +44,7 @@ Indikator | Kemampuan untuk mengenali hubungan sejumlah kondisi melalui penyimpu
 Deskripsi Level 3 | Melakukan sintesa  terhadap beragam kondisi yang tidak jelas hubungannya.
 Indikator | Kemampuan untuk melakukan sintesa dalam rangka menemukan pola hubungan beragam kondisi yang dihadapi.
 Deskripsi Level 4 | Menyederhanakan struktur dari beragam kondisi.
-Indikator |Menemukenali kesetaraan dari beragam kondisi untuk memperoleh kesimpulan yang mudah dipahami. 
+Indikator |Menemukenali kesetaraan dari beragam kondisi untuk memperoleh kesimpulan yang mudah dipahami.
 Deskripsi Level 5 | Menciptakan pola pandang baru dalam melihat  struktur dari beragam kondisi.
 Indikator | Mengenali keterkaitan dari beragam struktur kondisi yang ada termasuk yang bagi orang lain tidak jelas untuk menemukan pola pandang baru yang belum pernah ada sebelumnya.
 
@@ -64,8 +53,9 @@ Indikator | Mengenali keterkaitan dari beragam struktur kondisi yang ada termasu
 
 Nama  | Strategic Thinking
 :-----|:----
-Kode  | STH
-Alias INA| Berpikir Strategis
+Kode  | STRT
+Alias |
+Tipe | Simple
 Definisi | Kemampuan **melihat secara komprehensif peluang dan kendala di masa yang akan datang** serta mampu **merumuskan pemikiran** tersebut ke dalam tujuan-tujuan yang **merefleksikan kebutuhan perusahaan di masa datang** secara jelas, terukur dan dapat diwujudkan (realistis).
 Perilaku Kunci | Berpikir komprehensif - Identifikasi peluang dan hambatan.
 Perilaku Kunci | Menemukan ide – ide strategis.
@@ -85,22 +75,13 @@ Indikator | Memiliki kerangka yang jelas akan visi dari area bisnisnya dan secar
 Indikator | Mampu mengembangkan visi perusahaan melalui **terobosan** (*breakthrough*) atau **_quantum leap_**.
 
 
-### Manage Task
+### Planning And Organizing
 
-Nama  | Manage Task
+Nama  | Planning And Organizing
 :-----|:----
-Kode  | MTA
-Alias INA| Mengelola Tugas
-Definisi | Kemampuan dalam mengelola tugas yang diberikan.
-Deskripsi |Gabungan dari kompetensi Planning & Organizing, Control, dan Decision Making.
-
-
-### Planning Dan Organizing
-
-Nama  | Planning Dan Organizing
-:-----|:----
-Kode  | POR
-Alias INA| Perencanaan Dan Pengorganisasian
+Kode  | PLAO
+Alias |
+Tipe | Simple
 Definisi | Kemampuan **menyusun rencana kerja** jangka pendek maupun jangka panjang dengan target yang spesifik, realistis, dan terukur, yang **diselaraskan dengan visi/ misi Perusahaan**. Rencana tersebut mencakup **prioritas tindakan**, **pengorganisasian sumber daya** – a.l. material, finansial, manusia dsb. – secara integratif dan **mengantisipasi kendala** yang diperkirakan akan muncul.
 Perilaku Kunci | Menyusun rencana kerja dengan target spesifik.
 Perilaku Kunci | Menyelaraskan rencana kerja dengan visi/misi.
@@ -109,7 +90,7 @@ Perilaku Kunci | Mengantisipasi kendala.
 Deskripsi Level 0 | Belum Tampak.
 Indikator | Bekerja secara reaktif, daftar pekerjaan pun tidak ada atau tidak terdokumentasi.
 Deskripsi Level 1 | Memiliki daftar tugas yang harus dilakukan.
-Indikator |Berusaha mempersiapkan apa yang akan dilakukan berdasarkan aktivitas harian yang harus dilakukan sesuai metode kerja/SOP yang harus diikuti. 
+Indikator |Berusaha mempersiapkan apa yang akan dilakukan berdasarkan aktivitas harian yang harus dilakukan sesuai metode kerja/SOP yang harus diikuti.
 Deskripsi Level 2 | Merencanakan aktifitas kerja.
 Indikator | Menjabarkan serangkaian aktifitas yang harus dilakukan berdasarkan pemahaman akan objektif yang akan dicapai.
 Deskripsi Level 3 | Menentukan objektif kerja yang harus dipenuhi.
@@ -124,8 +105,9 @@ Indikator | Memahami bisnis yang dijalankan, menyelaraskan strategi perusahaan d
 
 Nama  | Control
 :-----|:----
-Kode  | CTR
-Alias INA| Pengendalian
+Kode  | CONR
+Alias |
+Tipe | Simple
 Definisi | Kemampuan untuk **memastikan efektivitas pencapaian sasaran/target** kerja baik untuk tujuan *preventive* maupun *corrective* dengan cara **melakukan pengawasan**, **mengevaluasi pencapaian target**, dan **mengambil tindakan perbaikan secara tepat guna**.
 Perilaku Kunci | Melakukan pengawasan.
 Perilaku Kunci | Mengevaluasi pencapaian target.
@@ -143,12 +125,14 @@ Indikator | Memastikan proses kerja berjalan dengan baik dengan cara memonitor p
 Deskripsi Level 5 | Melakukan langkah antisipasi.
 Indikator | Melakukan pengawasan terhadap proses pemenuhan target yang menjadi tanggungjawabnya dengan menggunakan pendekatan PDCA secara utuh dan kontinyu dan mempersiapkan langkah-langkah yang diperlukan (*anticipative action/early warning system*).
 
+
 ### Decision Making
 
 Nama  | Decision Making
 :-----|:----
-Kode  | DMK
-Alias INA| Pengambilan Keputusan
+Kode  | DECM
+Alias |
+Tipe | Simple
 Definisi | Kemampuan **mengidentifikasi kriteria** yang dipergunakan dalam proses **pemilihan alternatif** secara tegas, **berani**, **tepat waktu** dan **akurat** sesuai dengan permasalahan yang dihadapi berdasarkan pertimbangan logis dan informasi faktual yang relevan, sekalipun dalam kondisi yang mengandung resiko.
 Perilaku Kunci | Menemukan kriteria pertimbangan;
 Perilaku Kunci | Mengintegrasikan kriteria dan menentukan alternatif.
@@ -168,22 +152,13 @@ Deskripsi Level 5 | Mengantisipasi dampak dari tindakan yang diambil.
 Indikator | Mampu mempertimbangkan dan mengintegrasikan semua aspek yang terkait dengan permasalahan secara luas sehingga dapat mengetahui dampak suatu keputusan dan mempersiapkan langkah antisipasinya.
 
 
-### Manage People
-
-Nama  | Manage People
-:-----|:----
-Kode  | MPE
-Alias INA| Mengelola orang lain.
-Definisi | Kemampuan dalam mengelola orang lain yang terkait dengan tugas.
-Deskripsi |Gabungan dari kompetensi Teamwork, Leadership, Developing Others, Relationship Building, dan Customer Focus.
-
-
 ### Teamwork
 
 Nama  | Teamwork
 :-----|:----
-Kode  | TWK
-Alias INA| Kerjasama
+Kode  | TEAM
+Alias |
+Tipe | Simple
 Definisi | Kemampuan **menciptakan sinergi** dari beberapa orang dalam satu tim untuk bekerja, menyelesaikan masalah dan mengambil tindakan. Kemampuan ini didasari oleh intensi yang tulus untuk **bekerjasama dengan orang lain** yang menjadi bagian dari kelompok. <u>Konteks kerjasama ini terdapat pada suatu situasi di mana seseorang berada atau menjadi bagian dari suatu kelompok</u>.
 Perilaku Kunci | Intensitas keterlibatan dalam kelompok.
 Perilaku Kunci | Mengajak orang lain untuk terlibat.
@@ -206,8 +181,9 @@ Indikator | Mampu berperan untuk menjaga kesinambungan kerjasama kelompok.
 
 Nama  | Leadership
 :-----|:----
-Kode  | LDS
-Alias INA| Kepemimpinan
+Kode  | LEAD
+Alias |
+Tipe | Simple
 Definisi | Kemampuan untuk **mengembangkan dan menggunakan** berbagai macam **peran dan gaya kepemimpinan** secara fleksibel sesuai dengan **situasi** dan **kondisi** baik pekerjaan maupun kematangan (*maturity level*) bawahan sehingga dapat mencapai sasaran perusahaan.
 Perilaku Kunci | Keberanian untuk tampil;
 Perilaku Kunci | memimpin bawahan;
@@ -223,7 +199,7 @@ Deskripsi Level 3 | Memotivasi bawahan.
 Indikator | Menjalankan *Situational Leadership*, berusaha untuk membuat bawahan tersebut menjadi mampu tetapi pola ini belum dilakukan secara efisien.
 Deskripsi Level 4 | Memainkan berbagai peran kepemimpinan.
 Indikator | Memahami situasi lingkungan kerja sehingga dapat menjalankan*situational leadership* secara tepat-guna yang berdampak pada meningkatnya kinerja namun masih dalam <u>lingkup unit kerjanya</u>.
-Deskripsi Level 5 | Mampu berperan sebagai role model. 
+Deskripsi Level 5 | Mampu berperan sebagai role model.
 Indikator | Mampu secara aktif dan adaptif menjalankan *situational leadership* secara tepat-guna sesuai dengan budaya dan lingkungan kerja, serta dapat menciptakan sinergi dan menjadi panutan bagi orang lain  di <u>lingkungan perusahaan</u>
 
 
@@ -231,8 +207,9 @@ Indikator | Mampu secara aktif dan adaptif menjalankan *situational leadership* 
 
 Nama  | Developing Others
 :-----|:----
-Kode  | DOT
-Alias INA| Pengembangan Orang
+Kode  | DEVO
+Alias |
+Tipe | Simple
 Definisi | Kemampuan **mengembangkan** bawahan atau pihak lain yang memiliki hubungan kerja yang didasari oleh niat tulus untuk mendorong **tumbuhnya proses pembelajaran** jangka panjang. Atau didasari oleh kebutuhan pengembangan **untuk meningkatkan ketrampilan bawahan**. Fokusnya adalah pada proses pengembangan dan dampaknya, lebih dari sekedar menjalankan pelatihan formal
 Perilaku Kunci | Mengetahui kelebihan dan kekurangan.
 Perilaku Kunci | Memberi kesempatan pengembangan.
@@ -254,8 +231,9 @@ Indikator | Memfasilitasi dan mempersiapkan program pelatihan/pengembangan jangk
 
 Nama  | Relationship Building
 :-----|:----
-Kode  | RBS
-Alias INA| Membangun Hubungan
+Kode  | RELB
+Alias |
+Tipe | Simple
 Definisi | Memiliki upaya untuk membina, menjaga dan mendayagunakan hubungan atau jaringan kontak yang luas (misalkan: dalam membangun *networking* dengan pihak eksternal Organisasi) demi tercapainya tujuan organisasi saat ini dan masa mendatang dengan menciptakan peluang bisnis dan meminimalisir kendala.
 Perilaku Kunci | Menghargai keanekaragaman.
 Perilaku Kunci | Mengembangkan jaringan.
@@ -271,7 +249,7 @@ Deskripsi Level 3 | Memperkuat hubungan melalui kegiatan sosial.
 Indikator | Mampu menciptakan jejaring hubungan baik melalui pertemuan formal maupun informal, secara intern maupun extern organisasi tanpa membedakan golongan dan latar belakang.
 Deskripsi Level 4 | Membentuk dan menjaga hubungan pertemanan.
 Indikator | Meningkatkan intensitas hubungan kerja menjadi hubungan pertemanan yang lebih bersifat personal untuk memastikan kesuksesan tujuan jangka panjang sehingga bisa memanfaatkan jejaring hubungan secara tepat guna untuk kepentingan Organisasi.
-Deskripsi Level 5 | Menciptakan Sinergi. 
+Deskripsi Level 5 | Menciptakan Sinergi.
 Indikator | Membuat semua pihak dapat memanfaatkan hubungan kerjasama secara tepat guna yang sudah terjalin untuk kepentingan organisasi
 
 
@@ -279,54 +257,46 @@ Indikator | Membuat semua pihak dapat memanfaatkan hubungan kerjasama secara tep
 
 Nama  | Customer Focus
 :-----|:----
-Kode  | CFO
-Alias INA| Pelayanan Pelanggan
+Kode  | CUSF
+Alias |
+Tipe | Simple
 Definisi | Dorongan untuk membantu dan **melayani orang lain** dalam rangka memenuhi kebutuhan mereka. Fokusnya adalah pada pemahaman akan kebutuhan dan berupaya untuk bertindak lebih dalam melayani pelanggan dengan orientasi jangka panjang. *Pelanggan meliputi konsumen eksternal, maupun internal dalam arti next-process atau bagian lain*.
-Perilaku Kunci | Merespon kebutuhan pelanggan. 
+Perilaku Kunci | Merespon kebutuhan pelanggan.
 Perilaku Kunci | Berbuat Lebih bagi pelanggan.
-Perilaku Kunci | Menjaga Hubungan dengan pelanggan. 
+Perilaku Kunci | Menjaga Hubungan dengan pelanggan.
 Deskripsi Level 0 | Belum Tampak.
 Indikator | Tahu adanya kebutuhan pelanggan tetapi belum ditindaklanjuti.
 Deskripsi Level 1 | Merespon permintaan pelanggan.
 Indikator | Memberikan respon yang sesuai dengan permintaan pelanggan; memenuhi janji atau menyelesaikan aktivitas yang telah disetujui bersama pelanggan.
 Deskripsi Level 2 | Menjaga komunikasi dengan pelanggan.
-Indikator | Memantau kepuasan pelanggan setelah respon tersebut diberikan dan memberikan tanggapan yang ramah, akrab dan hangat terhadap respon tersebut. 
+Indikator | Memantau kepuasan pelanggan setelah respon tersebut diberikan dan memberikan tanggapan yang ramah, akrab dan hangat terhadap respon tersebut.
 Deskripsi Level 3 | Bertanggung jawab secara personal.
-Indikator | Meyakinkan pelanggan atas jaminan pelayanan yang diberikan; siap menghadapi komplain pelanggan secara jujur dan tidak berusaha mengelak, serta memberikan penjelasan yang logis dan mudah diterima pelanggan. 
+Indikator | Meyakinkan pelanggan atas jaminan pelayanan yang diberikan; siap menghadapi komplain pelanggan secara jujur dan tidak berusaha mengelak, serta memberikan penjelasan yang logis dan mudah diterima pelanggan.
 Deskripsi Level 4 | Bertindak agar segala sesuatu lebih baik bagi pelanggan.
 Indikator | Mengidentifikasi hal-hal yang memiliki nilai lebih bagi pelanggan, mencari kebutuhan-kebutuhan utama dan nyata bagi pelanggan, dan berusaha memberikan respon yang lebih baik sesuai dengan kebutuhan tersebut.
 Deskripsi Level 5 | Membangun hubungan jangka panjang dengan pelanggan.
 Indikator | Menganalisa aspek-aspek yang dapat memberikan keuntungan jangka panjang bagi pelanggan. Menjadi penasehat terpercaya bagi pelanggan dalam mengatasi kesulitannya.
 
 
-### Manage Self
-
-Nama  | Manage Self
-:-----|:----
-Kode  | MSE
-Alias INA| Mengelola diri sendiri.
-Definisi | Kemampuan dalam mengelola diri untuk mendukung tugas.
-Deskripsi |Gabungan dari kompetensi Achievement Drive, Managing Change, dan Self Development.
-
-
 ### Achievement Drive
 
 Nama  | Achievement Drive
 :-----|:----
-Kode  | ACH
-Alias INA| Dorongan Berprestasi
+Kode  | ACHD
+Alias |
+Tipe | Simple
 Definisi | **Dorongan untuk menghasilkan prestasi kerja** yang terbaik, mencakup penetapan standard prestasi yang menantang, pengembangan cara kerja untuk melaksanakan sesuatu agar lebih baik, didukung oleh antusiasme yang kuat.
 Perilaku Kunci | Dorongan untuk menghasilkan prestasi terbaik.
 Perilaku Kunci | Memperbaiki kinerja untuk mencapai prestasi terbaik.
 Perilaku Kunci | Menetapkan target prestasi kerja yang menantang.
 Deskripsi Level 0 | Belum Tampak.
-Indikator | Tidak memiliki dorongan untuk berprestasi. 
+Indikator | Tidak memiliki dorongan untuk berprestasi.
 Deskripsi Level 1 | Menyadari perlunya berprestasi.
 Indikator | Menyadari perlu adanya peningkatan prestasi kerja tetapi belum diikuti dengan tindakan nyata.
 Deskripsi Level 2 | Berusaha untuk menunjukkan prestasi kerja.
 Indikator | Melakukan sejumlah tindakan untuk meningkatkan prestasi kerja namun lebih didorong oleh pencapaian target yang telah ditentukan.
 Deskripsi Level 3 | Memperbaiki prestasi kerja.
-Indikator | Melakukan sejumlah inisiatif untuk memperbaiki cara kerja agar menjadi lebih efektif dalam mencapai target prestasi yang telah ditetapkan. 
+Indikator | Melakukan sejumlah inisiatif untuk memperbaiki cara kerja agar menjadi lebih efektif dalam mencapai target prestasi yang telah ditetapkan.
 Deskripsi Level 4 | Meningkatkan prestasi kerja.
 Indikator | Secara kontinyu melakukan perbaikan pada sistem, metode, kuantitas atau kualitas kerja yang tujuannya adalah untuk meningkatkan prestasi kerja.
 Deskripsi Level 5 | Konsisten memberikan prestasi kerja yang terbaik.
@@ -337,8 +307,9 @@ Indikator | Secara konsisten menunjukkan upaya terbaik untuk memberikan prestasi
 
 Nama  | Managing Change
 :-----|:----
-Kode  | MCH
-Alias INA| Mengelola Perubahan
+Kode  | MANC
+Alias |
+Tipe | Simple
 Definisi | Memahami perlunya **proses perubahan dan dampaknya**, mengelola perubahan yang ada mulai dari mengidentifikasi perlunya perubahan, menyusun rencana perubahan, mengajak, memotivasi dan mendapatkan komitmen dari bawahan atau pihak lain.
 Perilaku Kunci | Memahami perlunya perubahan.
 Perilaku Kunci | Mengajak dan memotivasi pihak lain untuk berubah.
@@ -361,8 +332,9 @@ Indikator | Melakukan inisiatif dan menjadi motor penggerak perubahan melalui co
 
 Nama  | Self Development
 :-----|:----
-Kode  | SDE
-Alias INA| Pengembangan Diri
+Kode  | SELD
+Alias |
+Tipe | Simple
 Definisi | Dorongan untuk **mengembangkan diri** yang diawali **introspeksi interna**l untuk membandingkan kelebihan dan kekurangan dengan tuntutan perkembangan perusahaan serta diikuti dengan usaha-usaha **mencari cara belajar** yang efektif dan sistematis.
 <<<<<<< HEAD:KOMPETENSI GAIA
 Perilaku Kunci | Introspeksi internal;
@@ -396,4 +368,51 @@ Deskripsi Level 4 | **Mencari kesempatan belajar.**
 Indikator 4.1. | Melibatkan diri pada kegiatan-kegiatan yang dapat memberikan kesempatan untuk meningkatkan wawasan, ilmu maupun keterampilannya; berusaha menangkap peluang yang ada untuk dapat mengembangkan diri.
 Deskripsi Level 5 | **Merencanakan target pengembangan diri secara sistematis.**
 Indikator 5.1. | Menyusun rencana pengembangan diri yang tepat guna, melakukan pemantauan yang intensif terhadap kegiatan belajar yang dilakukan untuk terus meningkatkan efektivitas belajarnya.
->>>>>>> dd4af77465249309119aeeb8ebed6679acfa8369:KOMPETENSI GAIA.md
+
+
+### Manage Reasoning
+
+Nama  | Manage Reasoning
+:-----|:----
+Kode  | MANR
+Alias |
+Tipe | Composite
+Member | ANAT, CONT, STRT
+Definisi | Kemampuan dalam mengelola kognitif untuk menghadapi prsoalan maupun penugasan.
+Deskripsi |Gabungan dari kompetensi Analytical Thinking, Conceptual Thinking, dan Strategic Thinking.
+
+
+### Manage Task
+
+Nama  | Manage Task
+:-----|:----
+Kode  | MANT
+Alias |
+Tipe | Composite
+Member | PLAO, CONR, DESM
+Definisi | Kemampuan dalam mengelola tugas yang diberikan.
+Deskripsi |Gabungan dari kompetensi Planning & Organizing, Control, dan Decision Making.
+
+
+### Manage People
+
+Nama  | Manage People
+:-----|:----
+Kode  | MANP
+Alias |
+Tipe | Composite
+Member | TEAM, LEAD, DEVO, RELB, CUSF
+Definisi | Kemampuan dalam mengelola orang lain yang terkait dengan tugas.
+Deskripsi |Gabungan dari kompetensi Teamwork, Leadership, Developing Others, Relationship Building, dan Customer Focus.
+
+
+### Manage Self
+
+Nama  | Manage Self
+:-----|:----
+Kode  | MANS
+Alias |
+Tipe | Composite
+Member | ACHD, MANC, SELD
+Definisi | Kemampuan dalam mengelola diri untuk mendukung tugas.
+Deskripsi |Gabungan dari kompetensi Achievement Drive, Managing Change, dan Self Development.
