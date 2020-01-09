@@ -364,6 +364,7 @@ Nama  | Self Development
 Kode  | SDE
 Alias INA| Pengembangan Diri
 Definisi | Dorongan untuk **mengembangkan diri** yang diawali **introspeksi interna**l untuk membandingkan kelebihan dan kekurangan dengan tuntutan perkembangan perusahaan serta diikuti dengan usaha-usaha **mencari cara belajar** yang efektif dan sistematis.
+<<<<<<< HEAD:KOMPETENSI GAIA
 Perilaku Kunci | Introspeksi internal;
 Perilaku Kunci | mencari cara belajar;
 Perilaku Kunci | menyusun rencana Pengembangan diri.
@@ -379,3 +380,20 @@ Deskripsi Level 4 | Mencari kesempatan belajar.
 Indikator | Melibatkan diri pada kegiatan-kegiatan yang dapat memberikan kesempatan untuk meningkatkan wawasan, ilmu maupun keterampilannya; berusaha menangkap peluang yang ada untuk dapat mengembangkan diri.
 Deskripsi Level 5 | Merencanakan target pengembangan diri secara sistematis.
 Indikator | Menyusun rencana pengembangan diri yang tepat guna, melakukan pemantauan yang intensif terhadap kegiatan belajar yang dilakukan untuk terus meningkatkan efektivitas belajarnya.
+=======
+Perilaku Kunci 1 | Introspeksi internal;
+Perilaku Kunci 2 | mencari cara belajar;
+Perilaku Kunci 3 | menyusun rencana Pengembangan diri.
+Deskripsi Level 0 | **Belum Tampak.**
+Indikator 0.1. | Tidak ada dorongan untuk mengembangkan diri.
+Deskripsi Level 1 | **Memiliki kesadaran belajar.**
+Indikator 1.1. | Menyadari adanya kebutuhan untuk menambah wawasan, ilmu pengetahuan, keterampilan di mana kesadaran ini muncul karena faktor eksternal (contoh: tuntutan untuk dapat menyelesaikan tugas).
+Deskripsi Level 2 | **Mengidentifikasi kebutuhan pengembangan diri.**
+Indikator 2.1. | Melakukan introspeksi diri dalam upaya mengidentifikasi kelebihan dan kekurangan dirinya sehingga memperoleh aspek-aspek dari dirinya yang perlu dikembangkan lebih lanjut.
+Deskripsi Level 3 | **Memahami proses belajar.**
+Indikator 3.1. | Melakukan usaha-usaha untuk menemukan cara-cara yang efektif bagi dirinya untuk mengembangkan diri secara optimal.
+Deskripsi Level 4 | **Mencari kesempatan belajar.**
+Indikator 4.1. | Melibatkan diri pada kegiatan-kegiatan yang dapat memberikan kesempatan untuk meningkatkan wawasan, ilmu maupun keterampilannya; berusaha menangkap peluang yang ada untuk dapat mengembangkan diri.
+Deskripsi Level 5 | **Merencanakan target pengembangan diri secara sistematis.**
+Indikator 5.1. | Menyusun rencana pengembangan diri yang tepat guna, melakukan pemantauan yang intensif terhadap kegiatan belajar yang dilakukan untuk terus meningkatkan efektivitas belajarnya.
+>>>>>>> dd4af77465249309119aeeb8ebed6679acfa8369:KOMPETENSI GAIA.md
